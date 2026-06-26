@@ -1,7 +1,10 @@
-<!-- THEMATIC HEADER BANNER (CALMNESS, ASPIRATION & GROWTH) -->
+<!-- PREMIUM THEMATIC BACKGROUND BANNER (CALM, ASPIRATIONAL TECH GROWTH) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1d2a44&height=220&section=header&text=Raju%20Dubey&subtitle=AI/ML%20Quality%20Engineering%20Leader%20%7C%20Test%20Automation%20Architect&theme=dark&fontSize=42&fontColor=ffffff&subFontSize=16" width="100%" />
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Raju Dubey Banner" style="border-radius: 8px;" />
 </p>
+
+<h1 align="center">Raju Dubey</h1>
+<p align="center"><b>AI/ML Quality Engineering Leader | Test Automation Architect</b></p>
 
 <!-- DYNAMIC CONTACT & CERTIFICATION BADGES -->
 <p align="center">
@@ -15,13 +18,13 @@
 
 ## 👤 About Me
 
-- 🏢 **Current Role:** Chapter Lead (Quality Engineering) at Standard Chartered Bank[cite: 1]
-- 💼 **Experience:** 14 Years transforming enterprise QE across Banking, Capital Markets, and Automotive domains[cite: 1]
-- 🎓 **Education:** Master of Computer Applications (**MCA**) | *Full-Time Education*[cite: 1]
-- 📜 **Post-Graduate Executive Training:** Diploma in Applied Data Science, AI & Deep Learning from **IIT Delhi**[cite: 1]
-- 🔭 **Core Focus:** Balancing advanced GenAI architectures (RAG, LLMOps) with elite, scalable enterprise automation[cite: 1]
-- 🧠 **Expertise:** Test Automation Architecture, Performance Engineering, and Shift-Left AI integration[cite: 1]
-- 🌍 **Based in:** Chennai, India[cite: 1]
+- 🏢 **Current Role:** Chapter Lead (Quality Engineering) at Standard Chartered Bank
+- 💼 **Experience:** 14 Years transforming enterprise QE across Banking, Capital Markets, and Automotive domains
+- 🎓 **Education:** Master of Computer Applications (**MCA**) | *Full-Time Education*
+- 📜 **Post-Graduate Executive Training:** Diploma in Applied Data Science, AI & Deep Learning from **IIT Delhi**
+- 🔭 **Core Focus:** Balancing advanced GenAI architectures (RAG, LLMOps) with elite, scalable enterprise automation
+- 🧠 **Expertise:** Test Automation Architecture, Performance Engineering, and Shift-Left AI integration
+- 🌍 **Based in:** Chennai, India
 
 ---
 
@@ -80,28 +83,28 @@
 
 ### ☕ Core Enterprise Testing Frameworks
 * 🛠️ **Selenium & Rest Assured Unified Framework (`Selenium_RestAssured_UnitedFramework`)**  
-  Architected an enterprise-grade automation ecosystem combining **Java, Selenium WebDriver, and Rest Assured** for unified UI and API validation layers[cite: 1]. Delivered structured test scaling with **TestNG** and execution reliability[cite: 1].
+  Architected an enterprise-grade automation ecosystem combining **Java, Selenium WebDriver, and Rest Assured** for unified UI and API validation layers. Delivered structured test scaling with **TestNG** and execution reliability.
 * 🥒 **BDD-Driven Test Architecture**  
-  Extensive engineering using **Cucumber BDD** seamlessly integrated with **Java & Selenium** pipelines to translate business specifications into maintainable continuous testing components[cite: 1].
+  Extensive engineering using **Cucumber BDD** seamlessly integrated with **Java & Selenium** pipelines to translate business specifications into maintainable continuous testing components.
 
 ### 🧠 Advanced AI/ML & Data Science Projects
 * 🔍 **RAG-Based Defect Triage Engine**  
-  Built using *LangChain, Qdrant, Ollama, and Python*[cite: 1]. Ingested 2 years of historical data into a vector store to surface probable production incident root causes, slashing triage time by **40%**[cite: 1].
+  Built using *LangChain, Qdrant, Ollama, and Python*. Ingested 2 years of historical data into a vector store to surface probable production incident root causes, slashing triage time by **40%**.
 * 📊 **Python Defect Analytics & Leakage Dashboard**  
-  An analytical utility utilizing *Pandas, NumPy, and Matplotlib* to mine defect data and identify high-risk modules, contributing directly to optimized pre-release strategy mapping[cite: 1].
+  An analytical utility utilizing *Pandas, NumPy, and Matplotlib* to mine defect data and identify high-risk modules, contributing directly to optimized pre-release strategy mapping.
 * ⚖️ **LLM Evaluation Framework**  
-  Designed validation pipelines utilizing *DeepEval* and *LLM-as-a-Judge* scoring mechanisms to create measurable quality gates for AI-generated testing components[cite: 1].
+  Designed validation pipelines utilizing *DeepEval* and *LLM-as-a-Judge* scoring mechanisms to create measurable quality gates for AI-generated testing components.
 
 ---
 
 ## 🏆 Selected Career Highlights
-* **Automation Champion Award** (Wells Fargo) — Built a data-driven framework leveraging **Java, Selenium, and Rest Assured** that optimized regression execution cycles by **60%**[cite: 1].
-* **Innovative Idea Hackathon Winner** — Designed an ML-driven Self-Healing Core framework using *Healenium* to handle dynamic UI locator adjustments[cite: 1].
-* Led a full **Data Center Migration** framework for 100+ critical multi-tier business systems with zero post-migration incidents[cite: 1].
+* **Automation Champion Award** (Wells Fargo) — Built a data-driven framework leveraging **Java, Selenium, and Rest Assured** that optimized regression execution cycles by **60%**.
+* **Innovative Idea Hackathon Winner** — Designed an ML-driven Self-Healing Core framework using *Healenium* to handle dynamic UI locator adjustments.
+* Led a full **Data Center Migration** framework for 100+ critical multi-tier business systems with zero post-migration incidents.
 
 ---
 
 ## 📨 Let's Connect!
 
-I bridge the gap between robust, enterprise-grade test automation and predictive AI engineering[cite: 1]. Reach out if you're looking to discuss framework scaling or modern automation engineering architectures!
-📫 **Connect with me via** [LinkedIn](https://linkedin.com/in/raju-dubey) or email at **rajudb93@gmail.com**[cite: 1].
+I bridge the gap between robust, enterprise-grade test automation and predictive AI engineering. Reach out if you're looking to discuss framework scaling or modern automation engineering architectures!
+📫 **Connect with me via** [LinkedIn](https://linkedin.com/in/raju-dubey) or email at **rajudb93@gmail.com**.
