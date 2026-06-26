@@ -1,7 +1,8 @@
-<!-- INTEGRATED FULL-WIDTH PROFESSIONAL DASHBOARD HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercelapp/api?type=soft&color=1f2937&height=180&section=header&text=Raju%20Dubey&subtitle=AI/ML%20Quality%20Engineering%20Leader%20%7C%20Test%20Automation%20Architect&theme=dark&fontSize=40&fontColor=ffffff&subFontSize=16&subFontColor=9ca3af" width="100%" alt="Raju Dubey Header" />
-</p>
+<!-- NATIVE GITHUB HIGH-IMPACT HEADER (ZERO DEPENDENCY / WILL NOT BREAK) -->
+<div align="center" style="background-color: #1f2937; padding: 30px; border-radius: 10px; margin-bottom: 20px;">
+  <h1 align="center" style="margin: 0; font-size: 38px; color: #ffffff;">RAJU DUBEY</h1>
+  <p align="center" style="margin: 5px 0 0 0; font-size: 18px; color: #9ca3af;"><b>AI/ML Quality Engineering Leader | Test Automation Architect</b></p>
+</div>
 
 <!-- DYNAMIC CONTACT & CERTIFICATION BADGES -->
 <p align="center">
@@ -34,11 +35,36 @@
 
 ---
 
+## 📊 Enterprise Automation Framework Contributions
+
+Since core automation utilities don't show up in standard GitHub language metrics, here is the architectural footprint of my engineering contributions across enterprise platforms:
+
+<table>
+  <tr>
+    <td width="20%"><b>Selenium WebDriver</b></td>
+    <td><img src="https://geps.dev/progress/85?text=UI+Automation+%26+Web+Ecosystems+(85%25)" alt="Selenium Progress" /></td>
+  </tr>
+  <tr>
+    <td width="20%"><b>Rest Assured</b></td>
+    <td><img src="https://geps.dev/progress/80?text=API+Testing+%26+Microservices+Validation+(80%25)" alt="Rest Assured Progress" /></td>
+  </tr>
+  <tr>
+    <td width="20%"><b>Cucumber BDD</b></td>
+    <td><img src="https://geps.dev/progress/75?text=Behavior+Driven+Development+%26+Gherkin+(75%25)" alt="Cucumber Progress" /></td>
+  </tr>
+  <tr>
+    <td width="20%"><b>TestNG</b></td>
+    <td><img src="https://geps.dev/progress/70?text=Test+Execution+Design+%26+Data+Driving+(70%25)" alt="TestNG Progress" /></td>
+  </tr>
+</table>
+
+---
+
 ## 🔥 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajudb93&show_icons=true&theme=tokyonight&count_private=true" alt="Raju's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajudb93&layout=compact&theme=tokyonight" alt="Raju's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercelapp/api/top-langs/?username=rajudb93&layout=compact&theme=tokyonight" alt="Raju's Top Languages" width="48%" />
 </p>
 
 ---
