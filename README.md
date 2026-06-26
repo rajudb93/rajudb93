@@ -1,6 +1,6 @@
-<!-- VISUAL HEADER BANNER -->
+<!-- THEMATIC HEADER BANNER (CALMNESS, ASPIRATION & GROWTH) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Raju%20Dubey&subtitle=AI/ML%20Quality%20Engineering%20Leader%20%7C%20Test%20Automation%20Architect&theme=dark" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1d2a44&height=220&section=header&text=Raju%20Dubey&subtitle=AI/ML%20Quality%20Engineering%20Leader%20%7C%20Test%20Automation%20Architect&theme=dark&fontSize=42&fontColor=ffffff&subFontSize=16" width="100%" />
 </p>
 
 <!-- DYNAMIC CONTACT & CERTIFICATION BADGES -->
@@ -15,20 +15,21 @@
 
 ## 👤 About Me
 
-- 🏢 **Current Role:** Chapter Lead (Quality Engineering) at Standard Chartered Bank
-- 💼 **Experience:** 14 Years transforming enterprise QE across Banking, Capital Markets, and Automotive domains
-- 🎓 **Education:** Diploma in Applied Data Science, AI & Deep Learning from **IIT Delhi**
-- 🔭 **Core Focus:** Pioneer of GenAI adoption in QE, Agentic AI, RAG-based analytics, and LLM-powered testing
-- 🧠 **Expertise:** Architecting scalable automation frameworks, Performance Engineering, and Shift-Left AI architectures
-- 🌍 **Based in:** Chennai, India
+- 🏢 **Current Role:** Chapter Lead (Quality Engineering) at Standard Chartered Bank[cite: 1]
+- 💼 **Experience:** 14 Years transforming enterprise QE across Banking, Capital Markets, and Automotive domains[cite: 1]
+- 🎓 **Education:** Master of Computer Applications (**MCA**) | *Full-Time Education*[cite: 1]
+- 📜 **Post-Graduate Executive Training:** Diploma in Applied Data Science, AI & Deep Learning from **IIT Delhi**[cite: 1]
+- 🔭 **Core Focus:** Balancing advanced GenAI architectures (RAG, LLMOps) with elite, scalable enterprise automation[cite: 1]
+- 🧠 **Expertise:** Test Automation Architecture, Performance Engineering, and Shift-Left AI integration[cite: 1]
+- 🌍 **Based in:** Chennai, India[cite: 1]
 
 ---
 
 ## 🤝 Open For
 <p align="left">
-  <img src="https://img.shields.io/badge/-AI/ML%20QE%20Collaboration-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Mentoring%20&%20Leadership-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/-GenAI%20in%20Testing%20Architecture-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Enterprise%20Automation%20Architecture-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-AI/ML%20QE%20Collaboration-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Mentoring%20&%20Leadership-orange?style=flat-square" />
 </p>
 
 ---
@@ -42,25 +43,26 @@
 
 ---
 
-## 🛠️ Tech Stack & Advanced Ecosystems
+## 🛠️ Tech Stack & Ecosystems
 
-### 🤖 AI/ML, GenAI & LLMOps
+### 🧪 Core Automation & Testing (Java & Web Ecosystems)
 <p align="left">
-  <img src="https://img.shields.io/badge/-LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RAG_Pipelines-0052CC?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Agentic_AI-7B1FA2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Qdrant-FF4500?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DeepEval-00G000?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-### 🧪 Advanced Automation & QE
-<p align="left">
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/-Rest_Assured-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cucumber_BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TestNG-F3A00E?style=for-the-badge&logo=TestNG&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/-Healenium-009688?style=for-the-badge&logo=probot&logoColor=white" />
+</p>
+
+### 🤖 AI/ML, Data Science & LLMOps
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RAG_Pipelines-0052CC?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Qdrant-FF4500?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DeepEval-00G000?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ### ⚙️ Cloud, DevOps & Performance
@@ -74,27 +76,32 @@
 
 ---
 
-## 🚀 Key AI/ML & Quality Engineering Projects
+## 🚀 Key Frameworks & Quality Engineering Projects
 
-* 🧠 **RAG-Based Defect Triage Engine**  
-  Built using *LangChain, Qdrant, Ollama, and Python*. Ingested 2 years of historical data into a vector store to identify probable production incident root causes, slashing triage time by **40%**.
-* 🎓 **QE Learning Assistant & Quiz Generator**  
-  A multi-modal AI assistant enabling chatbot-based context sharing and automated onboarding quiz systems deployed actively across internal tech teams.
-* 📈 **Python Defect Analytics & Leakage Dashboard**  
-  An analytical utility utilizing *Pandas, NumPy, and Matplotlib* to identify high-risk software modules, contributing directly to an optimized pre-release validation strategy.
+### ☕ Core Enterprise Testing Frameworks
+* 🛠️ **Selenium & Rest Assured Unified Framework (`Selenium_RestAssured_UnitedFramework`)**  
+  Architected an enterprise-grade automation ecosystem combining **Java, Selenium WebDriver, and Rest Assured** for unified UI and API validation layers[cite: 1]. Delivered structured test scaling with **TestNG** and execution reliability[cite: 1].
+* 🥒 **BDD-Driven Test Architecture**  
+  Extensive engineering using **Cucumber BDD** seamlessly integrated with **Java & Selenium** pipelines to translate business specifications into maintainable continuous testing components[cite: 1].
+
+### 🧠 Advanced AI/ML & Data Science Projects
+* 🔍 **RAG-Based Defect Triage Engine**  
+  Built using *LangChain, Qdrant, Ollama, and Python*[cite: 1]. Ingested 2 years of historical data into a vector store to surface probable production incident root causes, slashing triage time by **40%**[cite: 1].
+* 📊 **Python Defect Analytics & Leakage Dashboard**  
+  An analytical utility utilizing *Pandas, NumPy, and Matplotlib* to mine defect data and identify high-risk modules, contributing directly to optimized pre-release strategy mapping[cite: 1].
 * ⚖️ **LLM Evaluation Framework**  
-  Designed robust validation pipelines utilizing *DeepEval* and *LLM-as-a-Judge* scoring mechanisms to set measurable quality gates for AI-generated testing artifacts.
+  Designed validation pipelines utilizing *DeepEval* and *LLM-as-a-Judge* scoring mechanisms to create measurable quality gates for AI-generated testing components[cite: 1].
 
 ---
 
-## 🏆 Key Achievements
-* **Automation Champion Award** (Wells Fargo) — Reduced execution regression runtimes by 60%.
-* **Innovative Idea Hackathon Winner** — Designed and proposed an ML-driven Self-Healing Framework.
-* Led a comprehensive **Data Center Migration** framework for 100+ high-tier applications with zero post-migration incidents.
+## 🏆 Selected Career Highlights
+* **Automation Champion Award** (Wells Fargo) — Built a data-driven framework leveraging **Java, Selenium, and Rest Assured** that optimized regression execution cycles by **60%**[cite: 1].
+* **Innovative Idea Hackathon Winner** — Designed an ML-driven Self-Healing Core framework using *Healenium* to handle dynamic UI locator adjustments[cite: 1].
+* Led a full **Data Center Migration** framework for 100+ critical multi-tier business systems with zero post-migration incidents[cite: 1].
 
 ---
 
 ## 📨 Let's Connect!
 
-I am actively building the future of AI-augmented test engineering. Reach out if you're looking to discuss AI-driven test maturity, framework scaling, or predictive analytics!
-📫 **Connect with me via** [LinkedIn](https://linkedin.com/in/raju-dubey) or email at **rajudb93@gmail.com**.
+I bridge the gap between robust, enterprise-grade test automation and predictive AI engineering[cite: 1]. Reach out if you're looking to discuss framework scaling or modern automation engineering architectures!
+📫 **Connect with me via** [LinkedIn](https://linkedin.com/in/raju-dubey) or email at **rajudb93@gmail.com**[cite: 1].
